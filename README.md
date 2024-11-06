@@ -1,5 +1,6 @@
 ## Project title - Analyze Supermarket Data Across the Country - Company XYZ.
-![sales (7).png](attachment:b5ae6573-2c23-4007-b936-422b848df8e4.png)
+![image](https://github.com/user-attachments/assets/9491b474-92aa-4394-8c5d-ea5b29859dfc)
+
 
 This project aims to develop actionable growth strategy for Company XYZ, which owns a supermarket chain across the country, by understanding and analysing sales records got across its branches in a three month period.
 
@@ -51,11 +52,11 @@ Some of the key insights got the analysis process include:
 - Portharcout branch had more funds spent in cost of goods. The managemment can have a review on the operations to know why more resources are spent in the supply chain and procurement unit, and see if actions can be taken to cut cost and increase profit margin.
 - Abuja branch was observed to be the least rated branch. 
 - Fashion accessories had both genders as a target audience with the female audience a little bit more than the males. Females generally love fashion shopping. Some women take shopping as a hobby while men mostly go fashion shopping on a need-to-do basis. It was observed the fashion accessories had the least quantity of product sold while having one of the highest unit price after sports and travel category. If the unit price can be reviewed or a more quality or affordable products can be acquired, this might improve the sales of the fashion accessories thereby increasing profit margin.<br><br>
-![image](https://user-images.githubusercontent.com/58696972/180283606-2b0fbe65-ae1c-4253-9507-33442404abb8.png) <br><br>
+![image](https://github.com/user-attachments/assets/6f774633-e2a8-4ace-8078-58d72d48bc28) <br><br>
 
-![image](https://user-images.githubusercontent.com/58696972/180284608-ee6eb41c-9910-4fce-a736-90b2589ebea8.png)
+![image](https://github.com/user-attachments/assets/79ef74e0-741d-4354-a9b7-98a286e26206)
 
-![image](https://user-images.githubusercontent.com/58696972/180284671-8636c515-1d05-467a-b0ba-0ffa72398ecf.png)
+![image](https://github.com/user-attachments/assets/eb6a971c-81b7-43b8-be9a-e74d1b6e0efc)
 
 
 
